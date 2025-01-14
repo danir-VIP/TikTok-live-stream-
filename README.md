@@ -1,9 +1,9 @@
 ## TikTok-live-stream-
 Python library to receive live stream events (likes, comments, gifts, etc.) in realtime from TikTok LIVE latest version
 
-contact telegram https://t.me/danirusa
+contact telegram https://t.me/daniruee
 
-telegram channel https://t.me/toolsgit
+telegram channel https://t.me/toolsgi
 
 
 # TikTok-live-stream-
